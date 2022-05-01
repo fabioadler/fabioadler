@@ -10,7 +10,7 @@
 <br>
 <br>
 <div align="center">
-    <font size="100px">Redes Sociais:</font>
+    <h1>Redes Sociais:</h1>
 </div>
 <br>
 <br>
