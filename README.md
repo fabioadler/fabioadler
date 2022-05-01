@@ -4,6 +4,19 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div align="center">
+    <h1>Redes Sociais:</h1>
+</div>
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">
     <a href="https://www.instagram.com/fabioadler/"><img src="instagram.png" width="600vw" height="200px"></a>
 </div>
