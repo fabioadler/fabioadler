@@ -3,6 +3,7 @@
 </div>
 <div align="center">
     <div>
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpng2png.com%2Finstagram-logo-high-res-stock-images%2F&psig=AOvVaw3J8CGwSqSudBWOQsop7qzu&ust=1651510209257000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMC3mPfgvvcCFQAAAAAdAAAAABAD">
+        <img src="https://png2png.com/wp-content/uploads/2021/06/Instagram_Logo_transparent_PNG19.png">
+        <h3>@fabioadler</h3>
     </div>
 </div>
