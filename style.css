@@ -1,0 +1,13 @@
+.redes {
+
+    display:flex;
+    justify-content:space-between;
+    flex-direction:row;
+
+}
+
+.rede_s {
+
+    height:30px;
+
+}

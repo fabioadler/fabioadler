@@ -2,23 +2,7 @@
     <h1>Fábio Adler de Luna Gomes</h1>
 </div>
 
-```css
-
-.redes {
-
-    display:flex;
-    justify-content:space-between;
-    flex-direction:row;
-
-}
-
-.rede_s {
-
-    height:30px;
-
-}
-
-```
+<link rel="stylesheet" href="style.css">
 
 <div class="redes">
     <div class="rede_s">
