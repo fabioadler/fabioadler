@@ -1,5 +1,4 @@
-<style></style>
 
 <div class="meu nome">
-    Fábio Adler
+    <font size="40px" color="#fff" font-family="Arial">Fábio Adler</font>
 </div>
