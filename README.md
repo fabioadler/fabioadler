@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <div>
-        <img src="https://png2png.com/wp-content/uploads/2021/06/Instagram_Logo_transparent_PNG19.png">
+        <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="20px" width="20px">
         <h3>@fabioadler</h3>
     </div>
 </div>
