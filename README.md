@@ -1,8 +1,7 @@
 <div align="center">
     <h1>Fábio Adler de Luna Gomes</h1>
 </div>
-
-<link rel="stylesheet" href="style.css">
+<head><link rel="stylesheet" href="style.css"></head>
 
 <div class="redes">
     <div class="rede_s">
