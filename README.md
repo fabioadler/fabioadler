@@ -4,5 +4,5 @@
 <head><link rel="stylesheet" href="style.css"></head>
 
 <ul>
-    <li><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="20px" width="20px"><font size="40px">@fabioadler</font></li>
+    <li><img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="20px" width="20px"><font size="40">@fabioadler</font></li>
 </ul>
