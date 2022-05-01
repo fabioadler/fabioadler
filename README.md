@@ -1,5 +1,3 @@
-<body bg="#fff">
-    <div class="meu nome">
-        <h1>Fábio Adler</h1>
-    </div>
-</body>
+<div align="center">
+    <h1>Fábio Adler de Luna Gomes</h1>
+</div>
