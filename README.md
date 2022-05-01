@@ -4,7 +4,7 @@
 <head><link rel="stylesheet" href="style.css"></head>
 
 <div class="redes">
-    <table border="0">
+    <table bgcolor="red">
         <tr>
             <td>
                 <img src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-stunning-instagram-logo-vector-download-for-new-7.png" height="20px" width="20px">
