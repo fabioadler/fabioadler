@@ -10,6 +10,12 @@
 
 }
 
+.rede_s {
+
+    height:30px;
+
+}
+
 ```
 
 <div class="redes">
