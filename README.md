@@ -1,5 +1,5 @@
 <body bg="#fff">
     <div class="meu nome">
-        <font size="40px" color="red font-family="Arial">Fábio Adler</font>
+        <h1>Fábio Adler</h1>
     </div>
 </body>
