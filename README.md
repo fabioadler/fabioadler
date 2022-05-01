@@ -7,7 +7,7 @@
 </head>
 <body>
     <div class="meu_nome">
-        <font size="40px">Fábio Adler de Luna Gomes</font>
+        <font size="40px" bg="#098">Fábio Adler de Luna Gomes</font>
     </div>
 </body>
 </html>
